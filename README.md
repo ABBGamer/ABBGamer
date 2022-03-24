@@ -30,7 +30,7 @@
   
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   
-  <div id="my-info" align="left">
+<div id="my-info" align="left">
     
 - :telescope: I’m working as a Engineer.
 
@@ -60,11 +60,6 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ABBGamer&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABBGamer&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-  </div>
-
 
  </div>
 <!--
