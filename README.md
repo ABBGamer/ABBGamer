@@ -39,7 +39,18 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - :zap: In my free time, I read tech articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-%40ABBGamer-blue)](my-telegram)
+ 
+---
+ 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+</div>
+
   </div>
+
+
  </div>
 <!--
 **ABBGamer/ABBGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
