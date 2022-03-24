@@ -16,7 +16,7 @@
 <div id="info" align="left">
 ### :woman_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-  <div>
+  <div id="my-info" align="left">
 - :telescope: I’m working as a Engineer.
 
 - :seedling: Programming is my hobby.
