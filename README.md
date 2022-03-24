@@ -1,21 +1,23 @@
 <!--### Hi there 👋-->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200"/>
-  <div id="badges">
-    <a href="my-last-update">
-      <img src="https://img.shields.io/eclipse-marketplace/last-update/ABBGamer" alt="Last Update Badge"/>
-    </a>
-    <a href="my-telegram">
-      <img src="https://img.shields.io/badge/Telegram-%40ABBGamer-blue" alt="Telegram Badge"/>
-    </a>
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200"/>
+    <div id="badges">
+        <a href="my-last-update">
+            <img src="https://img.shields.io/eclipse-marketplace/last-update/ABBGamer" alt="Last Update Badge"/>
+        </a>
+        <a href="my-telegram">
+            <img src="https://img.shields.io/badge/Telegram-%40ABBGamer-blue" alt="Telegram Badge"/>
+        </a>
     </div>
 </div>
+    
     ### Hi there 👋
     
-    <div align="center">
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-    </div>
+<div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <div id="info" align="left">
   
 ---
