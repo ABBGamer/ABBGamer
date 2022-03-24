@@ -20,6 +20,7 @@
 </div>
 
 <div id="info" align="left">
+
 ---
   
 ### :woman_technologist: About Me :
@@ -32,7 +33,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :seedling: Programming is my hobby.
 
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time, I read tech articles and books.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-%40ABBGamer-blue)](my-telegram)
  
