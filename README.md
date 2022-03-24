@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200"/>
+    <img src="https://media.giphy.com/media/vsC7gewdX8tfq/giphy.gif" width="200"/>
         <div id="badges">
             <a href="my-last-update">
                 <img src="https://img.shields.io/eclipse-marketplace/last-update/ABBGamer" alt="Last Update Badge"/>
