@@ -6,7 +6,6 @@
     <a href="my-last-update">
       <img src="https://img.shields.io/eclipse-marketplace/last-update/ABBGamer" alt="Last Update Badge"/>
     </a>
-  https://img.shields.io/eclipse-marketplace/last-update/ABBGamer
 </div>
 <!--
 **ABBGamer/ABBGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
