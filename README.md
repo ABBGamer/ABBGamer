@@ -6,6 +6,9 @@
     <a href="my-last-update">
       <img src="https://img.shields.io/eclipse-marketplace/last-update/ABBGamer" alt="Last Update Badge"/>
     </a>
+    <a href="my-telegram">
+      <img src="https://img.shields.io/badge/Telegram-%40ABBGamer-blue" alt="Telegram Badge"/>
+    </a>
     <div align="center">
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     </div>
@@ -13,6 +16,13 @@
   
 ### :woman_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I’m working as a Engineer.
+
+- :seedling: Programming is my hobby.
+
+- :zap: In my free time, I read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-%40ABBGamer-blue)](my-telegram)
 <!--
 **ABBGamer/ABBGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
