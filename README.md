@@ -9,13 +9,13 @@
     <a href="my-telegram">
       <img src="https://img.shields.io/badge/Telegram-%40ABBGamer-blue" alt="Telegram Badge"/>
     </a>
-    
+    </div>
+</div>
     ### Hi there 👋
     
     <div align="center">
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     </div>
-</div>
 <div id="info" align="left">
   
 ---
