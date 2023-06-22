@@ -39,7 +39,7 @@ Tools: -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=22272E&title_color=FEA626&text_color=FED85B&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6491a629db7de05a7a70d138?variant=dark&roadmaps=frontend%2Cangular%2Caspnet-core%2Ctypescript)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6491a629db7de05a7a70d138?variant=dark&roadmaps=frontend%2Cangular%2Caspnet-core%2Ctypescript)](https://roadmap.sh)
 
 </div>
 
